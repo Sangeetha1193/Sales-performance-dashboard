@@ -1,0 +1,10 @@
+EmployeeID,EmployeeName,Title,orders_handled,total_sales,avg_order_value,unique_customers_served
+4,Margaret Peacock,Sales Representative,1908,51488395.196,736.9065162370655,93
+5,Steven Buchanan,Sales Manager,1804,51386459.1025,735.4791764827961,93
+3,Janet Leverling,Sales Representative,1846,50445573.763,739.1726073762565,93
+1,Nancy Davolio,Sales Representative,1846,49659423.2345,734.4004382569988,93
+7,Robert King,Sales Representative,1789,49651899.305,737.101576654147,93
+8,Laura Callahan,Inside Sales Coordinator,1798,49281136.8075,731.163288489785,93
+6,Michael Suyama,Sales Representative,1754,49139966.5595,742.4077135443421,93
+9,Anne Dodsworth,Sales Representative,1766,49019678.4365,738.6709025722552,93
+2,Andrew Fuller,"Vice President, Sales",1771,48314100.765,728.005737436902,93

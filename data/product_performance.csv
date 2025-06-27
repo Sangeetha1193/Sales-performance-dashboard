@@ -1,0 +1,78 @@
+ProductID,ProductName,CategoryName,SupplierName,total_quantity_sold,total_revenue,order_count,avg_order_value,total_discount_given,revenue_rank,quantity_rank,category_rank
+38,Côte de Blaye,Beverages,Aux joyeux ecclésiastiques,202234,53265895.235,7905,6738.2536666666665,8587.465,1,26,1
+29,Thüringer Rostbratwurst,Meat/Poultry,Plutzer Lebensmittelgroßmärkte AG,199010,24623469.232,7847,3137.946888237543,7367.728,2,74,1
+9,Mishi Kobe Niku,Meat/Poultry,Tokyo Traders,200258,19423037.5,7871,2467.6708804472114,1600.5,3,63,2
+20,Sir Rodney's Marmalade,Confections,"Specialty Biscuits, Ltd.",205637,16653807.36,7999,2081.986168271034,1072.44,4,2,1
+18,Carnarvon Tigers,Seafood,"Pavlova, Ltd.",201747,12604671.875,7871,1601.4066668784144,2815.625,5,42,1
+59,Raclette Courdavault,Dairy Products,Gai pâturage,204137,11216410.7,7982,1405.2130669005262,5140.3,6,8,1
+51,Manjimup Dried Apples,Produce,"G'day, Mate",201319,10664768.65,7915,1347.4123373341756,2922.9500000000003,7,49,1
+62,Tarte au sucre,Confections,Forêts d'érables,202010,9952936.07,7910,1258.2725752212389,2592.93,8,31,2
+43,Ipoh Coffee,Beverages,Leka Trading,202968,9333374.7,7927,1177.4157562760186,1552.5,9,17,2
+28,Rössle Sauerkraut,Produce,Plutzer Lebensmittelgroßmärkte AG,202988,9252765.44,7957,1162.845977127058,1168.96,10,16,2
+27,Schoggi Schokolade,Confections,Heli Süßwaren GmbH & Co. KG,201139,8829078.475,7885,1119.7309416613823,131.625,11,55,3
+63,Vegie-spread,Condiments,"Pavlova, Ltd.",200764,8810705.195,7875,1118.8197073015874,995.2049999999999,12,59,1
+8,Northwoods Cranberry Sauce,Condiments,Grandma Kelly's Homestead,201894,8073652.0,7884,1024.0553018772198,988.0,13,36,2
+17,Alice Mutton,Meat/Poultry,"Pavlova, Ltd.",202304,7884412.38,7926,994.7530128690386,2783.82,14,24,3
+12,Queso Manchego La Pastora,Dairy Products,Cooperativa de Quesos 'Las Cabras',202242,7684381.66,7929,969.148904023206,609.14,15,25,2
+56,Gnocchi di nonna Alice,Grains/Cereals,Pasta Buttini s.r.l.,201376,7646887.06,7871,971.5267513657731,2528.14,16,48,1
+69,Gudbrandsdalsost,Dairy Products,Norske Meierier,200954,7230582.36,7991,904.8407408334376,2364.84,17,57,3
+72,Mozzarella di Giovanni,Dairy Products,Formaggi Fortini s.r.l.,201931,7024050.13,7912,887.7717555611729,838.6700000000001,18,34,4
+60,Camembert Pierrot,Dairy Products,Gai pâturage,203154,6900443.48,7928,870.3889354187689,3460.52,19,14,5
+64,Wimmers gute Semmelknödel,Grains/Cereals,Plutzer Lebensmittelgroßmärkte AG,201245,6688749.2175,7893,847.4280017103763,1051.0325,20,53,2
+53,Perth Pasties,Meat/Poultry,"G'day, Mate",200146,6561681.369999999,7817,839.4117142126134,936.03,21,67,4
+26,Gumbär Gummibärchen,Confections,Heli Süßwaren GmbH & Co. KG,204761,6391018.9845,7999,798.9772452181523,1685.7555,22,5,4
+32,Mascarpone Fabioli,Dairy Products,Formaggi Fortini s.r.l.,199441,6381012.16,7817,816.2993680440067,767.04,23,72,6
+10,Ikura,Seafood,Tokyo Traders,201318,6238723.34,7948,784.9425440362355,1272.86,24,50,2
+7,Uncle Bob's Organic Dried Pears,Produce,Grandma Kelly's Homestead,203970,6118254.3,7959,768.7214851111949,419.7,25,9,3
+61,Sirop d'érable,Condiments,Forêts d'érables,205005,5839809.6,7958,733.8288012063332,2086.2,26,4,3
+30,Nord-Ost Matjeshering,Seafood,Nord-Ost-Fisch Handelsgesellschaft mbH,203314,5261378.9775,7952,661.6422255407444,1351.3425,27,13,3
+37,Gravad lax,Seafood,Svensk Sjöföda AB,201750,5244938.4,7853,667.88977460843,358.8,28,40,4
+6,Grandma's Boysenberry Spread,Condiments,Grandma Kelly's Homestead,201515,5037487.0,7926,635.5648498612162,208.0,29,46,4
+55,Pâté chinois,Meat/Poultry,Ma Maison,203486,4879418.4,7962,612.838281838734,2085.6,30,12,5
+14,Tofu,Produce,Mayumi's,199834,4644738.99,7834,592.8949438345672,638.91,31,69,4
+4,Chef Anton's Cajun Seasoning,Condiments,New Orleans Cajun Delights,198726,4370573.9,7876,554.9230446927374,856.9000000000001,32,75,5
+71,Flotemysost,Dairy Products,Norske Meierier,199990,4296610.525,7870,545.9479701397713,1325.475,33,68,7
+5,Chef Anton's Gumbo Mix,Condiments,New Orleans Cajun Delights,199627,4261021.350000001,7857,542.3216685757924,453.95000000000005,34,71,6
+65,Louisiana Fiery Hot Pepper Sauce,Condiments,New Orleans Cajun Delights,201749,4245004.09,7905,537.0024149272612,737.11,35,41,7
+11,Queso Cabrales,Dairy Products,Cooperativa de Quesos 'Las Cabras',201751,4234846.77,7889,536.8040017746229,1000.23,36,39,8
+22,Gustaf's Knäckebröd,Grains/Cereals,PB Knäckebröd AB,200234,4204728.36,7957,528.4313635792385,110.04,37,64,3
+49,Maxilaku,Confections,Karkki Oy,201154,4021924.6,7941,506.47583427779875,255.4,38,54,5
+57,Ravioli Angelo,Grains/Cereals,Pasta Buttini s.r.l.,204251,3982093.05,7969,499.6979608482871,146.25,39,7,4
+44,Gula Malacca,Condiments,Leka Trading,199636,3881146.695,7867,493.3452008389475,608.255,40,70,8
+2,Chang,Beverages,Exotic Liquids,201802,3830510.96,7916,483.8947650328449,2203.2400000000002,41,38,3
+36,Inlagd Sill,Seafood,Svensk Sjöföda AB,201296,3822787.46,7958,480.3703769791405,1084.14,42,51,5
+40,Boston Crab Meat,Seafood,New England Seafood Cannery,200232,3681884.2299999995,7903,465.88437681892947,1137.67,43,65,6
+35,Steeleye Stout,Beverages,Bigfoot Breweries,202366,3640338.0,7904,460.56907894736844,892.8000000000001,44,22,4
+39,Chartreuse verte,Beverages,Aux joyeux ecclésiastiques,202017,3634326.54,7952,457.03301559356134,856.26,45,30,5
+1,Chai,Beverages,Exotic Liquids,201905,3632174.1,7907,459.36184393575314,1489.5,46,35,6
+76,Lakkalikööri,Beverages,Karkki Oy,201478,3624706.44,7928,457.2031331987891,1033.56,47,47,7
+16,Pavlova,Confections,"Pavlova, Ltd.",201983,3521612.0255,7904,445.5480801492915,1532.2745,48,32,6
+66,Louisiana Hot Spiced Okra,Condiments,New Orleans Cajun Delights,206213,3504941.0,8040,435.9379353233831,136.0,49,1,9
+50,Valkoinen suklaa,Confections,Karkki Oy,200622,3259726.4375,7862,414.6179645764436,72.3125,50,60,7
+15,Genen Shouyu,Condiments,Mayumi's,201697,3126197.325,7960,392.73835741206034,28.675,51,44,10
+70,Outback Lager,Beverages,"Pavlova, Ltd.",204403,3064462.65,8020,382.1025748129676,799.35,52,6,8
+73,Röd Kaviar,Seafood,Svensk Sjöföda AB,199042,2985232.2,7892,378.2605423213381,202.8,53,73,7
+34,Sasquatch Ale,Beverages,Bigfoot Breweries,203667,2850604.4,7940,359.0181863979849,327.6,54,10,9
+67,Laughing Lumberjack Lager,Beverages,Bigfoot Breweries,201541,2821394.8,7873,358.3633684745332,165.2,55,45,10
+25,NuNuCa Nuß-Nougat-Creme,Confections,Heli Süßwaren GmbH & Co. KG,200926,2812216.4,7912,355.4368554095045,347.2,56,58,8
+42,Singaporean Hokkien Fried Mee,Grains/Cereals,Leka Trading,200520,2806097.0,7844,357.738016318205,757.4,57,61,5
+77,Original Frankfurter grüne Soße,Condiments,Plutzer Lebensmittelgroßmärkte AG,201852,2622964.63,7922,331.0987919717243,513.37,58,37,11
+58,Escargots de Bourgogne,Seafood,Escargots Nouveaux,197673,2617973.425,7909,331.0119389303325,783.075,59,77,8
+48,Chocolade,Confections,Zaanse Snoepfabriek,201732,2571692.2125,7892,325.86064527369484,174.03749999999997,60,43,9
+31,Gorgonzola Telino,Dairy Products,Formaggi Fortini s.r.l.,203616,2542658.375,7964,319.26900740833753,1251.625,61,11,9
+68,Scottish Longbreads,Confections,"Specialty Biscuits, Ltd.",202349,2528089.0,7818,323.36774111025835,648.5,62,23,10
+46,Spegesild,Seafood,Lyngbysild,201277,2414631.0,7883,306.30863884308,261.0,63,52,9
+21,Sir Rodney's Scones,Confections,"Specialty Biscuits, Ltd.",202777,2026714.0,7853,258.08149751687256,532.0,64,19,11
+3,Aniseed Syrup,Condiments,Exotic Liquids,202186,2021624.0,7918,255.32003031068453,36.0,65,27,12
+74,Longlife Tofu,Produce,Tokyo Traders,202113,2020592.5,7883,256.3227832043638,133.5,66,29,5
+41,Jack's New England Clam Chowder,Seafood,New England Seafood Cannery,200173,1930883.145,7917,243.8907597574839,417.755,67,66,10
+45,Rogede sild,Seafood,Lyngbysild,200461,1903891.675,7858,242.2870545940443,402.325,68,62,11
+19,Teatime Chocolate Biscuits,Confections,"Specialty Biscuits, Ltd.",205487,1889691.42,8024,235.50491276171485,296.88,69,3,12
+47,Zaanse koeken,Confections,Zaanse Snoepfabriek,197889,1879296.08,7785,241.3996249197174,400.52,70,76,13
+23,Tunnbröd,Grains/Cereals,PB Knäckebröd AB,202136,1818605.7,7960,228.4680527638191,238.5,71,28,6
+75,Rhönbräu Klosterbier,Beverages,Plutzer Lebensmittelgroßmärkte AG,201021,1557138.99,7930,196.36052837326608,473.06,72,56,11
+54,Tourtière,Meat/Poultry,Ma Maison,202688,1509129.0875000001,7912,190.7392678842265,392.7625,73,20,6
+52,Filo Mix,Grains/Cereals,"G'day, Mate",203091,1421369.95,7906,179.7837022514546,150.85,74,15,7
+13,Konbu,Seafood,Mayumi's,202499,1214608.44,7968,152.43579819277107,273.96,75,21,12
+24,Guaraná Fantástica,Beverages,Refrescos Americanas LTDA,201959,908257.365,7881,115.24646174343357,278.235,76,33,12
+33,Geitost,Dairy Products,Norske Meierier,202944,507120.625,7951,63.7807351276569,65.375,77,18,10
